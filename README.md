@@ -1,103 +1,106 @@
-# Houmoon App - Eastern Wisdom-based Healing Operating System
 
-## Project Overview
+# 🧠 Houmoon: Eastern Wisdom-Based Healing Operating System  
+# 🧠 Houmoon：基于东方智慧的疗愈操作系统
 
-Houmoon is a next-generation mobile application that combines ancient Chinese philosophies with modern technology to create a comprehensive personal transformation platform. Unlike conventional meditation apps that focus primarily on anxiety reduction, Houmoon aims to help users deeply transform their inner world through Eastern wisdom traditions.
+**An AI-powered inner transformation app inspired by the Dao, I Ching, and Yangming Mind Philosophy.**  
+**一个融合《道德经》《易经》和阳明心学的 AI 内在修炼应用。**  
+*Heal your mind, map your destiny, and converse with your future self.*  
+*疗愈内心、掌握命运、对话未来的自己。*
 
-The app integrates three major philosophical traditions:
-- **Dao De Jing** (The Way and Its Power)
-- **I Ching** (The Book of Changes) and its 64 hexagrams
-- **Yangming Mind Philosophy** (The unity of knowledge and action)
+---
 
-## Core Modules
+## 🌟 Project Overview 项目概述
 
-Houmoon consists of four interconnected core modules:
+Houmoon is a next-generation mobile app that fuses **Eastern philosophy** with **AI** to guide users on a spiritually grounded journey of personal evolution.  
+Houmoon 是一款新一代移动应用，融合东方哲学与人工智能，引导用户踏上心灵觉醒与自我进化之路。
 
-### 1. Heart Law System (Philosophy Feed + Wisdom Insights)
-- Daily quotes and voice explanations from Eastern philosophies
-- Content adaptive to user's emotional state
-- Wisdom Progress Map showing areas of understanding explored
+It integrates wisdom from:  
+应用整合了以下东方智慧体系：
+- **🧘 Dao De Jing** — harmony and natural flow  
+  《道德经》：顺应自然，清静无为
+- **🧬 I Ching** — change, timing, and decision-making  
+  《易经》：万物变化，因时而动
+- **🧠 Yangming Philosophy** — unity of knowing and doing  
+  阳明心学：知行合一，致良知
 
-### 2. Practice System (Daily Rituals & Inner Training)
-- Guided breathing sessions based on Taoist breathing cycles
-- Daily journaling with knowledge-action reflection prompts
-- Meditation and contemplation sessions
-- Inner Alignment Score tracking
+---
 
-### 3. Energy System (Emotional Diagnostics + Yin-Yang Balancer)
-- Visual radar chart of emotional trends
-- Five Elements balance chart
-- AI-generated lifestyle advice based on Chinese meridian rhythms
-- I Ching-based emotional diagnostics
+## 🧩 Core Modules 核心模块
 
-### 4. Future Self Dialogue System
-- Simulated dialogue with "Future Me"
-- Philosophical AI avatars (Confucius, Laozi, Wang Yangming)
-- Life Trajectory Map with turning points and spiritual lessons
+### 🏛 1. Heart Law System 心法系统
+- Wisdom feed with daily quotes and audio guides 每日心法语音引导
+- Emotional adaptation based on mood tracking 情绪自适应智慧推送
+- Visualized wisdom growth map 智慧修炼成长图谱
 
-## Technical Architecture
+### 🧘‍♀️ 2. Practice System 修炼系统
+- Taoist breathing, journaling, inner observation 道家呼吸+日记+内观练习
+- Reflective prompts for unity of knowledge & action 知行反思引导
+- Inner alignment score 内在一致性评分
 
-Houmoon is built using:
-- **Frontend**: React Native for cross-platform mobile development
-- **Backend**: Node.js with Firebase for real-time data
-- **AI Integration**: GPT-4/Claude for wisdom explanations and dialogue simulation
+### 🌗 3. Energy System 能量系统
+- Five Elements & Yin-Yang visualization 阴阳五行图谱
+- Emotional diagnostics & advice 情绪趋势分析与建议
+- Meridian-based daily advice 基于经络的生活引导
 
-## Project Deliverables
+### 🔮 4. Future Self Dialogue System 未来自我对话系统
+- Chat with "Future Me" and philosophical AI avatars 模拟未来对话 + 老子孔子王阳明AI导师
+- Life trajectory map 人生路径图
+- Turning points & spiritual insights 人生转折点预判与顿悟建议
 
-This repository contains the following deliverables:
+---
 
-1. **[Architecture Document](architecture.md)**: Comprehensive system architecture including technology stack, module design, data flow, and deployment strategy.
+## 🛠️ Tech Stack 技术架构
 
-2. **[Data Schema](data_schema.md)**: Detailed database schema design for Firebase Firestore, including collections, documents, relationships, and security rules.
+| Layer 层级 | Technology 技术 |
+|------------|------------------|
+| Frontend 前端 | React Native |
+| Backend 后端  | Node.js + Firebase |
+| AI Integration AI集成 | GPT-4 / Claude |
+| Data 数据库 | Firestore + Emotion Engine |
 
-3. **[Component Design](component_design.md)**: UI component hierarchy, reusable components with code examples, design system, and screen implementations.
+---
 
-4. **[Implementation Guide](implementation_guide.md)**: Step-by-step instructions for implementing the app, including project setup, module implementation, testing strategy, and deployment.
+## 📁 Repo Contents 仓库内容
 
-5. **[Project Structure](houmoon/)**: Folder structure for the application, organized according to the modular architecture.
+- `architecture.md` — 全系统架构设计 System architecture
+- `component_design.md` — UI组件与设计规范 UI design & hierarchy
+- `data_schema.md` — Firebase 数据结构 Database schema
+- `implementation_guide.md` — 实施指南 Setup & deployment
+- `houmoon/` — 源代码目录 Source code folder
 
-## Implementation Approach
+---
 
-The implementation follows a phased approach:
+## 🚀 Roadmap 实施路线
 
-### Phase 1: Heart Law System MVP
-- User authentication
-- Emotional check-in system
-- Philosophy Feed with wisdom content
-- Basic user profile and progress tracking
+### ✅ Phase 1 阶段一：心法系统 MVP
+- User auth, check-in, philosophy feed 用户系统+每日心法内容
+- Visual growth tracker 智慧成长可视化图谱
 
-Future phases will incrementally add the Practice System, Energy System, and Future Self Dialogue System.
+### 🔜 Next Phases 后续阶段
+- Practice / Energy / Future Dialogue 系统逐步开发上线
 
-## Getting Started
+---
 
-To set up the development environment:
+## 🧪 Getting Started 开发启动
 
-1. Clone this repository
-2. Install dependencies:
-   ```
-   cd houmoon/frontend
-   npm install
-   ```
-3. Set up Firebase:
-   - Create a Firebase project
-   - Add web app to Firebase project
-   - Enable Authentication and Firestore
-   - Add Firebase configuration to the project
+```bash
+git clone https://github.com/B1llyHou/houmoon-backup.git
+cd houmoon/frontend
+npm install
+npx react-native run-ios   # 或 run-android
+```
 
-4. Run the app:
-   ```
-   npx react-native run-ios
-   # or
-   npx react-native run-android
-   ```
+---
 
-## Next Steps
+## 💌 Contact 联系方式
 
-1. Implement the Heart Law System MVP following the implementation guide
-2. Seed the Firebase database with initial wisdom content
-3. Test the app with real users to gather feedback
-4. Develop Phase 2 (Practice System) based on user feedback
+Project Lead: **Billy Hou**  
+📧 houmoon36@gmail.com  
+🌍 Based in Chengdu, Bristol  
+📘 [LinkedIn (Coming Soon)](https://www.linkedin.com)
 
-## Contact
+---
 
-For any questions or support regarding this project, please contact the project owner.
+> “天命之谓性，率性之谓道，修道之谓教。” ——《中庸》  
+> *The decree of Heaven is called nature. To follow nature is called the Way. Cultivating the Way is called education.*
+
