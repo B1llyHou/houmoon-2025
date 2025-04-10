@@ -96,7 +96,7 @@ npx react-native run-ios   # 或 run-android
 
 Project Lead: **Billy Hou**  
 📧 houmoon36@gmail.com  
-🌍 Based in Chengdu, Bristol  
+🌍 Based in Chengdu, London  
 📘 [LinkedIn (Coming Soon)](https://www.linkedin.com)
 
 ---
