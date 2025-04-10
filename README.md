@@ -1,5 +1,5 @@
 
-# 🧠 Houmoon: Eastern Wisdom-Based Healing Operating System  
+# 🧠 Houmoon: Eastern Wisdom-Based Healing APP  
 # 🧠 Houmoon：基于东方智慧的疗愈APP
 
 **An AI-powered inner transformation app inspired by the Dao, I Ching, and Yangming Mind Philosophy.**  
