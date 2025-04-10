@@ -1,0 +1,19 @@
+# System & OS files
+.DS_Store
+Thumbs.db
+
+# Development environment
+node_modules/
+.env
+*.log
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+# Archives & generated files
+*.zip
+*.tar.gz
+
+# Git-related
+.nvm/
