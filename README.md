@@ -1,6 +1,6 @@
 
 # 🧠 Houmoon: Eastern Wisdom-Based Healing APP  
-# 🧠 Houmoon：基于东方智慧的疗愈APP
+#    Houmoon：基于东方智慧的疗愈APP
 
 **An AI-powered inner transformation app inspired by the Dao, I Ching, and Yangming Mind Philosophy.**  
 **一个融合《道德经》《易经》和阳明心学的 AI 内在修炼APP。**  
