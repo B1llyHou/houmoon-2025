@@ -1,0 +1,16 @@
+2025-04-10 06:36:51.063 [info] Extension host with pid 36786 started
+2025-04-10 06:36:51.063 [error] Error: EEXIST: file already exists, open '/home/ubuntu/.local/share/code-server/User/workspaceStorage/-2892e039/vscode.lock'
+2025-04-10 06:36:51.067 [info] Lock '/home/ubuntu/.local/share/code-server/User/workspaceStorage/-2892e039/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-04-10 06:36:51.074 [info] Lock '/home/ubuntu/.local/share/code-server/User/workspaceStorage/-2892e039/vscode.lock': The lock does not look stale, elapsed: 265 ms, giving up.
+2025-04-10 06:36:51.082 [error] Error: EEXIST: file already exists, open '/home/ubuntu/.local/share/code-server/User/workspaceStorage/-2892e039-1/vscode.lock'
+2025-04-10 06:36:51.082 [info] Lock '/home/ubuntu/.local/share/code-server/User/workspaceStorage/-2892e039-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-04-10 06:36:51.083 [info] Lock '/home/ubuntu/.local/share/code-server/User/workspaceStorage/-2892e039-1/vscode.lock': The lock does not look stale, elapsed: 450 ms, giving up.
+2025-04-10 06:36:51.097 [info] Lock '/home/ubuntu/.local/share/code-server/User/workspaceStorage/-2892e039-2/vscode.lock': Lock acquired.
+2025-04-10 06:36:51.206 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-10 06:36:51.325 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-10 06:36:51.325 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-10 06:36:51.702 [info] Eager extensions activated
+2025-04-10 06:36:51.702 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-10 06:36:51.703 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-10 06:36:52.000 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-10 06:36:52.073 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'

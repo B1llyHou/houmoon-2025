@@ -1,0 +1,48 @@
+2025-04-10 06:36:51.974 [info] [main] Log level: Info
+2025-04-10 06:36:51.975 [info] [main] Validating found git in: "git"
+2025-04-10 06:36:51.975 [info] [main] Using git "2.34.1" from "git"
+2025-04-10 06:36:51.975 [info] [Model][doInitialScan] Initial repository scan started
+2025-04-10 06:36:51.975 [info] > git rev-parse --show-toplevel [3ms]
+2025-04-10 06:36:51.975 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-10 06:36:51.975 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-10 06:36:51.975 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-10 06:36:51.975 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-10 06:36:51.975 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-10 06:36:51.975 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-10 06:36:51.975 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-10 06:36:51.975 [info] > git rev-parse --show-toplevel [3ms]
+2025-04-10 06:36:51.975 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-10 06:36:51.975 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-10 06:36:51.975 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-10 06:36:51.975 [info] > git rev-parse --show-toplevel [3ms]
+2025-04-10 06:36:51.975 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-04-10 06:36:51.975 [info] [Model][openRepository] Opened repository: /home/ubuntu/.nvm
+2025-04-10 06:36:51.975 [info] > git config --get commit.template [8ms]
+2025-04-10 06:36:51.975 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [12ms]
+2025-04-10 06:36:51.975 [info] > git rev-parse --show-toplevel [40ms]
+2025-04-10 06:36:51.975 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-10 06:36:51.975 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2025-04-10 06:36:51.975 [info] > git rev-parse --show-toplevel [4ms]
+2025-04-10 06:36:51.975 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-10 06:36:51.975 [info] > git status -z -uall [58ms]
+2025-04-10 06:36:51.975 [info] > git rev-parse --show-toplevel [3ms]
+2025-04-10 06:36:51.975 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-10 06:36:51.977 [info] > git rev-parse --show-toplevel [6ms]
+2025-04-10 06:36:51.977 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-10 06:36:51.982 [info] > git config --get commit.template [8ms]
+2025-04-10 06:36:51.986 [info] > git rev-parse --show-toplevel [5ms]
+2025-04-10 06:36:51.987 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-10 06:36:51.990 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [5ms]
+2025-04-10 06:36:52.036 [info] > git status -z -uall [43ms]
+2025-04-10 06:36:52.037 [info] > git rev-parse --show-toplevel [47ms]
+2025-04-10 06:36:52.037 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-10 06:36:52.043 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [46ms]
+2025-04-10 06:36:52.047 [info] > git rev-parse --show-toplevel [6ms]
+2025-04-10 06:36:52.047 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-10 06:36:52.053 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-10 06:36:52.053 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-10 06:36:52.058 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-04-10 06:36:52.321 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-10 06:36:52.321 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-10 06:36:52.552 [info] > git rev-parse --show-toplevel [2ms]
+2025-04-10 06:38:27.041 [info] > git check-ignore -v -z --stdin [4ms]

@@ -1,0 +1,32 @@
+Let’s move forward in the following focused path. Please prioritize and implement them in order:
+
+1. ✅ Create a working prototype of the **Phase 1 MVP core module (Heart Law System)**:
+   - Emotional Check-in Modal + Logic (React Native)
+   - Wisdom Feed (personalized based on user emotion)
+   - Progress Map (timeline-based progress tracker)
+   - Firebase integration for emotional states, wisdom history, and user progress
+
+2. ✅ Implement the following **frontend screens** with placeholder content:
+   - Onboarding Flow (carousel, goal selection, personalization)
+   - Dashboard Home
+   - Emotional Radar Visualization
+   - Basic Future Self Dialogue screen (with GPT-4 integration logic)
+
+3. ✅ Build the **backend utilities**:
+   - Firestore collections: users, emotions, wisdomFeed, progress
+   - Secure read/write logic
+   - Functions to fetch wisdom content and save check-ins
+
+4. ✅ Begin **AI integration**:
+   - Design a JSON schema for prompts (emotion + context → GPT input)
+   - Set fallback logic for unrecognized emotions
+   - Add temperature tuning logic based on user emotion + progress stage
+
+5. ✅ Prepare a basic **deployment strategy**:
+   - Generate iOS TestFlight and Android Alpha build
+   - Create prelaunch App Store assets (app name, icon, screenshots, pitch)
+   - Setup Firebase analytics and crash reporting
+
+We aim to submit the MVP to Apple TestFlight by **May 10**, go live by **May 17**, and reach net profit of ¥105,000 by **June 1**.
+
+Please begin with Step 1 and assign me actionable tasks to support the implementation. Let’s build it.
